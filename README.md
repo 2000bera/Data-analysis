@@ -1,2 +1,2 @@
 # Data-analysis
-Collecting data, Cleaning data, Analyzing data and reporting data based on charts
+Collecting data, Cleaning data, Analyzing data and reporting data based on charts and pivot tables
